@@ -25,7 +25,7 @@ Code a smart contract with following:
 Solution :-
 ROI.sol contract
 
-```
+```solidity
 // SPDX-License-Identifier: GPL-3.0
 
 pragma solidity ^0.6.0;
